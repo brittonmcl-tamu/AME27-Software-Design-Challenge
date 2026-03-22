@@ -8,8 +8,6 @@ Multi-tenant Applicant Tracking System (ATS) — Database architecture and backe
 |---|-------------|------|
 | 1 | Database Schema (ERD + SQL) | [`01-schema.sql`](./01-schema.sql) |
 | 2 | Core Business Logic | [`02-selectForInterview.ts`](./02-selectForInterview.ts) |
-| 3 | Concurrency & Transaction Write-Up | [`03-concurrency-writeup.md`](./03-concurrency-writeup.md) |
-| 4 | Multi-Tenant Authorization Strategy | [`04-authorization-writeup.md`](./04-authorization-writeup.md) |
 
 ## Key Design Decisions
 
