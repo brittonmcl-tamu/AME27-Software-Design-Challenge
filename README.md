@@ -1,6 +1,6 @@
 # AME27 Software Design Challenge
 
-Multi-tenant Applicant Tracking System (ATS) — Database architecture and backend logic for Texas A&M Formula E's recruitment platform.
+Database architecture and backend logic for Formula EV Design Challenge
 
 ## Deliverables
 
