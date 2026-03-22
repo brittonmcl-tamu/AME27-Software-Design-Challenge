@@ -6,8 +6,8 @@ Database architecture and backend logic for Formula EV Design Challenge
 
 | # | Deliverable | File |
 |---|-------------|------|
-| 1 | Database Schema (ERD + SQL) | [`01-schema.sql`](.schema.sql) |
-| 2 | Core Business Logic | [`02-selectForInterview.ts`](.selectForInterview.ts) |
+| 1 | Database Schema (ERD + SQL) | [`schema.sql`](./schema.sql) |
+| 2 | Core Business Logic | [`selectForInterview.ts`](./selectForInterview.ts) |
 
 ## Key Design Decisions
 
